@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ShanonDsouza046.github.io/react-portfolio",
+  "homepage": "https://ShanonDsouza046.github.io/myreactportfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

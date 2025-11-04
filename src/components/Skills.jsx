@@ -16,7 +16,7 @@ const Skills = () => {
     },
     {
       category: "Testing & Tools",
-      skills: ["Postman", "UnitTest", "Firebase Emulator", "Selenium", "Git", "GitHub", "VS Code", "Jira", "Agile/Scrum"]
+      skills: ["Postman", "Firebase Emulator", "Git", "GitHub", "VS Code", "Jira"]
     },
     {
       category: "Soft Skills",
